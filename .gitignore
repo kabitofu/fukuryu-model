@@ -1,0 +1,10 @@
+*.log
+*.tmp
+.cache/
+__pycache__/
+node_modules/
+.env
+.env.*
+raw_logs/
+private/
+exports/
